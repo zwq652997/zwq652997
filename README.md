@@ -9,7 +9,7 @@
 关于我，了解更多，点击[这里](https://juejin.im/user/2330620381383966)
 
 - 🔭 I’m currently working on 沈阳
-- 🌱 I’m currently learning 工程化
+- 🌱 I’m currently learning Web3 前端工程化
 - 💬 Ask me about ...
 - 📫 How to reach me: 微信（zhangwenqiang_00）
 
